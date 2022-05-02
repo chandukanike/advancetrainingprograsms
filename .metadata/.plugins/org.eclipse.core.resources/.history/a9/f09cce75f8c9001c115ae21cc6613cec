@@ -1,0 +1,7 @@
+package com.chandu;
+
+import emojava.lang.Object;
+
+public class Demo extends Object {
+
+}
